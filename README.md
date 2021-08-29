@@ -4,7 +4,7 @@
 
 ## I'm currently a Software Engineer Student and Self Learning Programmer!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Angular
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen to music while jogging
 
