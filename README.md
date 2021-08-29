@@ -39,7 +39,8 @@
 
 ### <-- Working Project -->
 
-- [UMP Supply Chain Management System](https://ump-cafe-supply-chain.web.app/) [*Repo] --> (https://github.com/oscarchuaweiwen-fsd/UMPCafeSupplyChainManagementSystem) 
+- [UMP Supply Chain Management System](https://ump-cafe-supply-chain.web.app/) <br>
+  [*Repo] --> (https://github.com/oscarchuaweiwen-fsd/UMPCafeSupplyChainManagementSystem) 
 - 
 ---
 
