@@ -53,6 +53,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarchuaweiwen-fsd&hide_border=true&layout=compact&theme=dark&hide=css,scss,html,makefile" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=oscarchuaweiwenfsd&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=oscarchuaweiwenfsd" />
   </div>
 </div
