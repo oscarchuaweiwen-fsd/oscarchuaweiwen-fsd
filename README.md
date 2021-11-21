@@ -17,10 +17,14 @@
 <a href="https://www.linkedin.com/in/oscar-chua-wei-wen-489047216/">
   <img align="left" alt="Oscar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!-- <a href="https://open.spotify.com/user/0grs94q62h3nmbibkmfgxr62p?si=9eb62e1147694760">
-  <img align="left" alt="Yossan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://open.spotify.com/user/fan84ex9ejeeme2tn3tslk2ns?si=8a7ca3f2c0794d54">
+  <img align="left" alt="Oscar's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
- -->
+
+<a href="https://react-oscar-portfolio.vercel.app/">
+  <img align="left" alt="Oscar's Portfolio" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281089.png" />
+</a>
+
 <br />
 
 
