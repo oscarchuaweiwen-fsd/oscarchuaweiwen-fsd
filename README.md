@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://react-oscar-portfolio.vercel.app/">
-  <img align="left" alt="Oscar's Portfolio" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281089.png" />
+  <img align="left" alt="Oscar's Portfolio" width="22px" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" />
 </a>
 
 <br />
