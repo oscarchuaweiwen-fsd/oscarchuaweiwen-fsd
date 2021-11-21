@@ -4,7 +4,7 @@
 
 ## I'm currently a Software Engineering Student and Self Learning Programmer!
 
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Stack Develeopment
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen to music while jogging
 
