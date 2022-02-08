@@ -4,8 +4,8 @@
 
 ## I'm currently a Software Engineering Student and Self Learning Programmer!
 
-- 🌱 I’m currently learning Stack Develeopment
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Full Stack Develeopment
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen to music while jogging
 
 ---
@@ -32,7 +32,7 @@
 
 ### <-- Languages and Tools -->
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
