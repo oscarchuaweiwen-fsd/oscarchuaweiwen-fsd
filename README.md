@@ -2,7 +2,7 @@
 
 ---
 
-## I'm currently a Software Engineering Student and Self Learning Programmer!
+## I'm currently a Product Engineer(Intern) and Self Learning Programmer!
 
 - 🌱 I’m currently learning Full Stack Develeopment
 - 🥅 2022 Goals: Contribute more to Open Source projects
