@@ -49,9 +49,12 @@
 
 ### <-- Working Project -->
 
-- [UMP Supply Chain Management System](https://ump-cafe-supply-chain.web.app/) <br> (Done)
-  [*Repo] --> (https://github.com/oscarchuaweiwen-fsd/UMPCafeSupplyChainManagementSystem) 
-- [OnJ Space App] (Working)
+- [UMP Supply Chain Management System](https://ump-cafe-supply-chain.web.app/) <br>
+   Status: Done <br>
+   Code Repository: https://github.com/oscarchuaweiwen-fsd/UMPCafeSupplyChainManagementSystem
+- [Oscar Portfolio](https://oscar-portfolio.vercel.app/) <br>
+   Status: On Progress <br>
+   Code Repository: https://github.com/oscarchuaweiwen-fsd/oscar-portfolio
 ---
 
 ### <-- GitHub Stats -->
