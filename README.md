@@ -21,7 +21,7 @@
   <img align="left" alt="Oscar's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" />
 </a>
 
-<a href="https://react-oscar-portfolio.vercel.app/">
+<a href="https://oscar-portfolio.vercel.app/">
   <img align="left" alt="Oscar's Portfolio" width="22px" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" />
 </a>
 
