@@ -1,6 +1,7 @@
 ## Hi there, Oscar Chua Wei Wen Here! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <img src="https://komarev.com/ghpvc/?username=oscarchuaweiwen-fsd" alt="oscarchuaweiwen">
 <img src="https://wakatime.com/badge/user/4a9d4cfc-9f68-44f6-9d3c-39b2a6045fb2.svg">
+
 ---
 
 ## I'm currently a Product Engineer(Intern) and Self Learning Programmer!
