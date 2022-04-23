@@ -55,7 +55,7 @@
    Status: Done <br>
    Code Repository: https://github.com/oscarchuaweiwen-fsd/UMPCafeSupplyChainManagementSystem
 - [Oscar Portfolio](https://oscar-portfolio.vercel.app/) <br>
-   Status: On Progress <br>
+   Status: Done <br>
    Code Repository: https://github.com/oscarchuaweiwen-fsd/oscar-portfolio
 ---
 
