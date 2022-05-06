@@ -11,7 +11,8 @@
 - ⚡ Fun fact: I love to listen to music while jogging
 
 ---
-### <-- Contact Me -->
+
+### <-- Contact Me <img align="center" src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Handshake.gif" height="33px" /> -->
 <!--  -->
 <a href="https://www.facebook.com/oscarSEgoogle/">
   <img align="left" alt="Oscar's Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/F_icon.svg" />
@@ -46,6 +47,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_765dd3891d3e6fabe76d21c159f56360/prisma-io.jpg"></code>
+<code><img height="20" src="https://img.stackshare.io/service/7419/20165699.png"></code>
+<code><img height="20" src="https://widgetcore.com/wp-content/uploads/2022/01/nextjs.jpg"></code>
 
 ---
 
