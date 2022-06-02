@@ -1,4 +1,4 @@
-## Hi there, Oscar Chua Wei Wen Here! 
+## Hi there, Oscar Chua Wei Wen Here! <img src="https://a.slack-edge.com/6c404/marketing/img/homepage/bold-existing-users/waving-hand.gif" width="16px">
 <img src="https://komarev.com/ghpvc/?username=oscarchuaweiwen-fsd" alt="oscarchuaweiwen">
 <img src="https://wakatime.com/badge/user/4a9d4cfc-9f68-44f6-9d3c-39b2a6045fb2.svg">
 
