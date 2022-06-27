@@ -62,9 +62,6 @@
    Status: Done <br>
    Code Repository: https://github.com/oscarchuaweiwen-fsd/oscar-portfolio
    
-- [Tayaria Stock and Profit Management Application](....) <br>
-   Status: Developing <br>
-   Code Repository: https://github.com/oscarchuaweiwen-fsd/tayaria-admin-panel (FE) || https://github.com/oscarchuaweiwen-fsd/tayaria-admin-panel-backend (BE)
 ---
 
 ### <-- GitHub Stats -->
