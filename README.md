@@ -37,6 +37,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" width="20" src="https://cdn.thenewstack.io/media/2022/05/57bb2a1f-golang.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
@@ -50,6 +51,7 @@
 <code><img height="20" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_765dd3891d3e6fabe76d21c159f56360/prisma-io.jpg"></code>
 <code><img height="20" src="https://img.stackshare.io/service/7419/20165699.png"></code>
 <code><img height="20" src="https://widgetcore.com/wp-content/uploads/2022/01/nextjs.jpg"></code>
+
 
 ---
 
