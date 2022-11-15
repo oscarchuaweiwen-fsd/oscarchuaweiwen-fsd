@@ -4,7 +4,7 @@
 
 ---
 
-## I'm currently a Product Engineer and Self Learning Programmer!
+## I'm currently a Software Developer and Self Learning Programmer!
 
 - 🌱 I’m currently learning Full Stack Develeopment
 - 🥅 2022 Goals: Contribute more to Open Source projects
