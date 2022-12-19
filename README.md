@@ -63,6 +63,10 @@
 - [Oscar Portfolio](https://oscar-portfolio.vercel.app/) <br>
    Status: Done <br>
    Code Repository: https://github.com/oscarchuaweiwen-fsd/oscar-portfolio
+- [Megaview Hotel Feedback Management System](https://feedback.mvh.group/department) <br>
+   Status: Done <br>
+- [Auto Reflections Management System](https://auto-reflections.vercel.app/home) <br>
+   Status: Done <br>
    
 ---
 
