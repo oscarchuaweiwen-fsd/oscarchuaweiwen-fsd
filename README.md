@@ -7,7 +7,7 @@
 ## I'm currently a Software Developer and Self Learning Programmer!
 
 - 🌱 I’m currently learning Full Stack Develeopment
-- 🥅 2023 Goals: Contribute more to Open Source projects, Learn DSA, tRPC, docker, kubernetes
+- 🥅 2023 Goals: Try to learn Flutter(Mobile Dev), Golang(Backend)
 - ⚡ Fun fact: I love to listen to music while jogging
 
 ---
