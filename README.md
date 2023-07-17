@@ -18,7 +18,7 @@
   <img align="left" alt="Oscar's Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/F_icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/oscar-chua-wei-wen-489047216/">
-  <img align="left" alt="Oscar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Oscar's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="https://open.spotify.com/user/fan84ex9ejeeme2tn3tslk2ns?si=8a7ca3f2c0794d54">
   <img align="left" alt="Oscar's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" />
